@@ -1,12 +1,12 @@
-Overview
+**Overview**
 
 Blood-Bank-Management-System is a web-based application built with PHP, MySQL, HTML, and CSS to help manage blood donation, donor and recipient information, and blood stock efficiently. The system allows donors to register, recipients to request blood, and administrators (or authorized users) to manage donors, recipients, and blood inventory.
 
-Problem Statement
+**Problem Statement**
 
 Many small clinics, local blood banks, or charitable blood-donation drives still maintain donor/recipient information manually — often using paper records or basic spreadsheets. This leads to inefficiencies: lost records, difficulty searching for donors with a particular blood group, tracking donations or requests, and managing blood stock. In emergency situations, delays in finding compatible donors can have serious consequences.
 
-Our Solution
+**Our Solution**
 
 We propose a unified, easy-to-use web application that digitizes the entire blood bank workflow:
 
@@ -24,7 +24,7 @@ Enable quick search/filtering by blood group, location or donor availability —
 
 This system ensures better record-keeping, faster access to information, and easier management of blood donations and requests.
 
-Features
+**Features**
 
 Donor Registration & Management
 
@@ -45,6 +45,7 @@ Project Structure (folder layout)
 Based on the folder listing in your GitHub repo, the structure is roughly:
 
 / (root)
+
   ├── admin/             ← backend admin-panel files (if any)  
   ├── css/               ← CSS files for styling  
   ├── db/                ← Database connection / config / scripts  
@@ -59,7 +60,7 @@ Based on the folder listing in your GitHub repo, the structure is roughly:
 
 You may adjust/fill this based on your actual file-structure.
 
-Technologies Used
+**Technologies Used**
 
 Front-end: HTML, CSS
 
@@ -69,7 +70,7 @@ Database: MySQL (managed via phpMyAdmin)
 
 Server (local dev): XAMPP (Apache + MySQL)
 
-Installation & Usage
+**Installation & Usage**
 
 Here are steps to run the project locally using XAMPP and phpMyAdmin:
 
@@ -103,13 +104,13 @@ http://localhost/YourProjectFolder/index.php
 
 Use the login or registration portal (e.g. login_portal.php / register_portal.php) to begin using the system.
 
-Team
+**Team**
 
 Varshini J
 
 Sandhiya S 
 
-Future Enhancements
+**Future Enhancements**
 
 Here are some possible improvements / additional features you could consider for future versions:
 
