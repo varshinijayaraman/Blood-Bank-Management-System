@@ -1,0 +1,1 @@
+<?php echo '<h2>Login Donor</h2>'; ?><p>Don’t have an account? <a href="register_donor.php">Register here</a></p>
