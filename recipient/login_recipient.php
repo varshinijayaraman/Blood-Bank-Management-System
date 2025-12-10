@@ -1,0 +1,1 @@
+<?php echo '<h2>Login Recipient</h2>'; ?><p>Don’t have an account? <a href="register_recipient.php">Register here</a></p>
